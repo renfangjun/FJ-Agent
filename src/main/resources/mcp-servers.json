@@ -8,10 +8,7 @@
         "-Dlogging.pattern.console=",
         "-jar",
         "yu-image-search-mcp-server/target/yu-image-search-mcp-server-0.0.1-SNAPSHOT.jar"
-      ],
-      "env": {
-        "SPRING_PROFILES_ACTIVE": "dev"
-      }
+      ]
     }
   }
 }
