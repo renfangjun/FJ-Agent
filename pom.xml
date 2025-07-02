@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.fangjun</groupId>
-    <artifactId>yu-ai-agent</artifactId>
+    <artifactId>jun-ai-agent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>yu-ai-agent</name>
-    <description>yu-ai-agent</description>
+    <name>jun-ai-agent</name>
+    <description>jun-ai-agent</description>
     <url/>
     <licenses>
         <license/>
