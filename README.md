@@ -1,7 +1,7 @@
-# Yu AI Agent 项目介绍
+# Jun AI Agent 项目介绍
 
 ## 项目概述
-Yu AI Agent 是一个基于Spring Boot框架构建的AI代理服务，主要提供恋爱建议和咨询功能。该项目结合了现代Web技术和人工智能算法，为用户提供个性化的互动体验。
+Jun AI Agent 是一个基于Spring Boot框架构建的AI代理服务，主要提供恋爱建议和咨询功能。该项目结合了现代Web技术和人工智能算法，为用户提供个性化的互动体验。
 
 ## 技术栈
 - 后端框架: Spring Boot
